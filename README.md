@@ -4,6 +4,9 @@
 
 ### Hi there 👋 I’m YaeSakura
 
+- 🐱 A Neko
+- ❤️ (っ*'ω'*c) ?s=loli_all
+![暗色](https://github.com/YaeSakuraQvQ/YaeSakuraQvQ/raw/output/github-contribution-grid-snake-dark.svg)
 <!--
 **YaeSakuraQvQ/YaeSakuraQvQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
